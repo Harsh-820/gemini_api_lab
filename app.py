@@ -21,7 +21,7 @@ try:
 
     print("\nGemini:")
     print(response.text)
-
+# hello
 except Exception as e:
     print("\nGemini API Error:")
     print(e)
